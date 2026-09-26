@@ -28,9 +28,3 @@ way, and interfaces that feel like real instruments instead of windows on a scre
 ### Currently
 
 Products are in development. Releases are announced when they are ready, not before.
-
----
-
-<p align="center">
-  <a href="mailto:hello@nightzune.com">hello@nightzune.com</a>
-</p>
