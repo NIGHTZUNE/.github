@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/nightzune-combined-white.svg">
-    <img src="assets/nightzune-combined-black.svg" alt="NIGHTZUNE" width="340">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/nightzune-horizontal-white.png">
+    <img src="assets/nightzune-horizontal-black.png" alt="NIGHTZUNE" width="420">
   </picture>
 </p>
 
